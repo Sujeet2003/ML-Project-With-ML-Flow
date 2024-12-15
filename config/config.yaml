@@ -1,0 +1,9 @@
+# creating artifacts folder
+artifacts_root: artifacts
+
+# Data Ingestion Configuration
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/Sujeet2003/Sujeet2003/raw/refs/heads/main/wine_quality.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
