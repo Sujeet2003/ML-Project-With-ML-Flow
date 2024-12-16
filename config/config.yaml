@@ -7,3 +7,10 @@ data_ingestion:
   source_URL: https://github.com/Sujeet2003/Sujeet2003/raw/refs/heads/main/wine_quality.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
+
+
+# Data Validation Configuration
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_data_dir: artifacts/data_ingestion/WineQT.csv
+  STATUS_FILE: artifacts/data_validation/status.txt
