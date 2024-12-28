@@ -1,4 +1,5 @@
-# ML-Project-With-ML-Flow
+# ML-Project-With-ML-Flow (Wine Quality Prediction Project)
+### This project predicts `QUALITY OF WINE` based on the given parameters. The main goal of this project was to build an `END-TO-END ML Project`.
 
 ## Workflow of this project
 1. Update config.yaml
