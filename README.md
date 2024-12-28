@@ -1,7 +1,7 @@
 # ML-Project-With-ML-Flow (Wine Quality Prediction Project)
 ### This project predicts `QUALITY OF WINE` based on the given parameters. The main goal of this project was to build an `END-TO-END ML Project`.
 
-## Workflow of this project
+#### Workflow of this project
 1. Update config.yaml
 2. Update schema.yaml
 3. Update params.yaml
@@ -13,7 +13,7 @@
 9. Update app.py
 
 
-## How to run the project
+#### How to run the project
 1. Clone the repository: 
     - https://github.com/Sujeet2003/ML-Project-With-ML-Flow.git
 
@@ -27,7 +27,7 @@
 
 5. Open up you at `local host` or `port`
 
-## DagsHub Tracking
+#### DagsHub Tracking
 [dagshub] (https://dagshub.com/)
 
     - MLFLOW_TRACKING_URI = https://dagshub.com/Sujeet2003/ML-Project-With-ML-Flow.mlflow
